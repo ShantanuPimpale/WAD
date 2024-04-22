@@ -1,0 +1,43 @@
+body{
+    font: arial, arial, helvetica;
+
+}
+
+.header{
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+.header h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+   
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+form{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    
+}
+
+form label{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+    text-shadow: 1px 1px 1px #000000;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
